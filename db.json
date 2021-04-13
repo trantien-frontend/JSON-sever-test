@@ -1,0 +1,264 @@
+{
+  "categories": [
+    {
+      "id": "e9b0cc26-eeb9-4865-9cd5-abd730c6762b",
+      "name": "Music",
+      "createAt": 1618297665561,
+      "updateAt": 1618297665561
+    },
+    {
+      "id": "32d8ab03-e2e1-4a10-9e5b-89e8ef257f81",
+      "name": "Movies",
+      "createAt": 1618297665561,
+      "updateAt": 1618297665561
+    },
+    {
+      "id": "a56d5b8d-7752-41c4-8308-b2b39842f6ab",
+      "name": "Music",
+      "createAt": 1618297665561,
+      "updateAt": 1618297665561
+    },
+    {
+      "id": "1166dbca-5e9c-4312-a091-3632fbaebaff",
+      "name": "Health",
+      "createAt": 1618297665562,
+      "updateAt": 1618297665562
+    }
+  ],
+  "products": [
+    {
+      "categoryId": "e9b0cc26-eeb9-4865-9cd5-abd730c6762b",
+      "id": "d9cb3a50-bb96-493f-be23-d69bd3d47cd7",
+      "name": "Incredible Plastic Mouse",
+      "color": "tan",
+      "price": 314,
+      "description": "New ABC 13 9370, 13.3, 5th Gen CoreA5-8250U, 8GB RAM, 256GB SSD, power UHD Graphics, OS 10 Home, OS Office A & J 2016",
+      "createAt": 1618297665582,
+      "updateAt": 1618297665582,
+      "thumbnailUrl": "http://placeimg.com/400/400"
+    },
+    {
+      "categoryId": "e9b0cc26-eeb9-4865-9cd5-abd730c6762b",
+      "id": "4a467418-f513-4183-b05e-354da9f439a6",
+      "name": "Awesome Steel Pizza",
+      "color": "teal",
+      "price": 583,
+      "description": "The beautiful range of Apple Naturalé that has an exciting mix of natural ingredients. With the Goodness of 100% Natural Ingredients",
+      "createAt": 1618297665582,
+      "updateAt": 1618297665582,
+      "thumbnailUrl": "http://placeimg.com/400/400"
+    },
+    {
+      "categoryId": "e9b0cc26-eeb9-4865-9cd5-abd730c6762b",
+      "id": "f1603eb9-5795-40c9-8998-f630cec6faa7",
+      "name": "Tasty Soft Shoes",
+      "color": "grey",
+      "price": 606,
+      "description": "New range of formal shirts are designed keeping you in mind. With fits and styling that will make you stand apart",
+      "createAt": 1618297665582,
+      "updateAt": 1618297665582,
+      "thumbnailUrl": "http://placeimg.com/400/400"
+    },
+    {
+      "categoryId": "e9b0cc26-eeb9-4865-9cd5-abd730c6762b",
+      "id": "fe766ffc-f51a-4cb5-815a-ed1e6fb2e537",
+      "name": "Ergonomic Steel Gloves",
+      "color": "magenta",
+      "price": 190,
+      "description": "The beautiful range of Apple Naturalé that has an exciting mix of natural ingredients. With the Goodness of 100% Natural Ingredients",
+      "createAt": 1618297665582,
+      "updateAt": 1618297665582,
+      "thumbnailUrl": "http://placeimg.com/400/400"
+    },
+    {
+      "categoryId": "e9b0cc26-eeb9-4865-9cd5-abd730c6762b",
+      "id": "64c16ed7-ebb7-4ba1-a801-2fc472b5ce82",
+      "name": "Tasty Rubber Computer",
+      "color": "orange",
+      "price": 839,
+      "description": "Ergonomic executive chair upholstered in bonded black leather and PVC padded seat and back for all-day comfort and support",
+      "createAt": 1618297665583,
+      "updateAt": 1618297665583,
+      "thumbnailUrl": "http://placeimg.com/400/400"
+    },
+    {
+      "categoryId": "32d8ab03-e2e1-4a10-9e5b-89e8ef257f81",
+      "id": "7ba08a87-3500-499d-8ca4-9df3fa8c825f",
+      "name": "Generic Granite Keyboard",
+      "color": "yellow",
+      "price": 987,
+      "description": "Ergonomic executive chair upholstered in bonded black leather and PVC padded seat and back for all-day comfort and support",
+      "createAt": 1618297665583,
+      "updateAt": 1618297665583,
+      "thumbnailUrl": "http://placeimg.com/400/400"
+    },
+    {
+      "categoryId": "32d8ab03-e2e1-4a10-9e5b-89e8ef257f81",
+      "id": "a234c2fc-2238-4a79-9800-11ff0e516fd9",
+      "name": "Incredible Granite Salad",
+      "color": "magenta",
+      "price": 578,
+      "description": "The Apollotech B340 is an affordable wireless mouse with reliable connectivity, 12 months battery life and modern design",
+      "createAt": 1618297665583,
+      "updateAt": 1618297665583,
+      "thumbnailUrl": "http://placeimg.com/400/400"
+    },
+    {
+      "categoryId": "32d8ab03-e2e1-4a10-9e5b-89e8ef257f81",
+      "id": "6b6d1687-1cac-4c12-a97e-16d225a7e26d",
+      "name": "Licensed Frozen Bacon",
+      "color": "teal",
+      "price": 29,
+      "description": "The automobile layout consists of a front-engine design, with transaxle-type transmissions mounted at the rear of the engine and four wheel drive",
+      "createAt": 1618297665583,
+      "updateAt": 1618297665583,
+      "thumbnailUrl": "http://placeimg.com/400/400"
+    },
+    {
+      "categoryId": "32d8ab03-e2e1-4a10-9e5b-89e8ef257f81",
+      "id": "4ec04ff7-4ddf-4bcb-811a-6aaa03956cd3",
+      "name": "Licensed Rubber Gloves",
+      "color": "fuchsia",
+      "price": 58,
+      "description": "The slim & simple Maple Gaming Keyboard from Dev Byte comes with a sleek body and 7- Color RGB LED Back-lighting for smart functionality",
+      "createAt": 1618297665583,
+      "updateAt": 1618297665583,
+      "thumbnailUrl": "http://placeimg.com/400/400"
+    },
+    {
+      "categoryId": "32d8ab03-e2e1-4a10-9e5b-89e8ef257f81",
+      "id": "b51480e8-bc3e-42b4-aa6b-472603e9b272",
+      "name": "Ergonomic Soft Ball",
+      "color": "orange",
+      "price": 923,
+      "description": "The automobile layout consists of a front-engine design, with transaxle-type transmissions mounted at the rear of the engine and four wheel drive",
+      "createAt": 1618297665583,
+      "updateAt": 1618297665583,
+      "thumbnailUrl": "http://placeimg.com/400/400"
+    },
+    {
+      "categoryId": "a56d5b8d-7752-41c4-8308-b2b39842f6ab",
+      "id": "75e46f65-b028-4fb8-a781-ab41ba045ed5",
+      "name": "Licensed Soft Towels",
+      "color": "indigo",
+      "price": 574,
+      "description": "Ergonomic executive chair upholstered in bonded black leather and PVC padded seat and back for all-day comfort and support",
+      "createAt": 1618297665583,
+      "updateAt": 1618297665583,
+      "thumbnailUrl": "http://placeimg.com/400/400"
+    },
+    {
+      "categoryId": "a56d5b8d-7752-41c4-8308-b2b39842f6ab",
+      "id": "a2be5fc2-5c0c-4e6c-872f-ef999b176b9f",
+      "name": "Handmade Fresh Hat",
+      "color": "lime",
+      "price": 279,
+      "description": "Boston's most advanced compression wear technology increases muscle oxygenation, stabilizes active muscles",
+      "createAt": 1618297665583,
+      "updateAt": 1618297665583,
+      "thumbnailUrl": "http://placeimg.com/400/400"
+    },
+    {
+      "categoryId": "a56d5b8d-7752-41c4-8308-b2b39842f6ab",
+      "id": "f2eb66a2-22c5-4e00-b481-b1d910693e57",
+      "name": "Refined Plastic Chicken",
+      "color": "sky blue",
+      "price": 868,
+      "description": "The Apollotech B340 is an affordable wireless mouse with reliable connectivity, 12 months battery life and modern design",
+      "createAt": 1618297665584,
+      "updateAt": 1618297665584,
+      "thumbnailUrl": "http://placeimg.com/400/400"
+    },
+    {
+      "categoryId": "a56d5b8d-7752-41c4-8308-b2b39842f6ab",
+      "id": "64a2980b-661b-4254-b253-53f5dd17fe4d",
+      "name": "Handcrafted Cotton Pizza",
+      "color": "violet",
+      "price": 7,
+      "description": "The Football Is Good For Training And Recreational Purposes",
+      "createAt": 1618297665584,
+      "updateAt": 1618297665584,
+      "thumbnailUrl": "http://placeimg.com/400/400"
+    },
+    {
+      "categoryId": "a56d5b8d-7752-41c4-8308-b2b39842f6ab",
+      "id": "8ca1a71c-02a9-4c8d-88ff-0d7d3625b2e4",
+      "name": "Sleek Soft Bike",
+      "color": "orchid",
+      "price": 578,
+      "description": "The slim & simple Maple Gaming Keyboard from Dev Byte comes with a sleek body and 7- Color RGB LED Back-lighting for smart functionality",
+      "createAt": 1618297665584,
+      "updateAt": 1618297665584,
+      "thumbnailUrl": "http://placeimg.com/400/400"
+    },
+    {
+      "categoryId": "1166dbca-5e9c-4312-a091-3632fbaebaff",
+      "id": "c83a525e-794d-41e6-899e-9cfd2e404a82",
+      "name": "Tasty Fresh Towels",
+      "color": "cyan",
+      "price": 788,
+      "description": "New range of formal shirts are designed keeping you in mind. With fits and styling that will make you stand apart",
+      "createAt": 1618297665584,
+      "updateAt": 1618297665584,
+      "thumbnailUrl": "http://placeimg.com/400/400"
+    },
+    {
+      "categoryId": "1166dbca-5e9c-4312-a091-3632fbaebaff",
+      "id": "b0e5f8b9-72dc-4fc3-9e46-33c877372638",
+      "name": "Generic Rubber Gloves",
+      "color": "maroon",
+      "price": 115,
+      "description": "Boston's most advanced compression wear technology increases muscle oxygenation, stabilizes active muscles",
+      "createAt": 1618297665584,
+      "updateAt": 1618297665584,
+      "thumbnailUrl": "http://placeimg.com/400/400"
+    },
+    {
+      "categoryId": "1166dbca-5e9c-4312-a091-3632fbaebaff",
+      "id": "55510ae0-36c0-4913-95c4-8a3613ae1bb0",
+      "name": "Ergonomic Rubber Bacon",
+      "color": "green",
+      "price": 82,
+      "description": "The Apollotech B340 is an affordable wireless mouse with reliable connectivity, 12 months battery life and modern design",
+      "createAt": 1618297665585,
+      "updateAt": 1618297665585,
+      "thumbnailUrl": "http://placeimg.com/400/400"
+    },
+    {
+      "categoryId": "1166dbca-5e9c-4312-a091-3632fbaebaff",
+      "id": "2891f9a7-e52b-4e04-ad73-71e575129efb",
+      "name": "Fantastic Steel Shirt",
+      "color": "olive",
+      "price": 584,
+      "description": "New range of formal shirts are designed keeping you in mind. With fits and styling that will make you stand apart",
+      "createAt": 1618297665585,
+      "updateAt": 1618297665585,
+      "thumbnailUrl": "http://placeimg.com/400/400"
+    },
+    {
+      "categoryId": "1166dbca-5e9c-4312-a091-3632fbaebaff",
+      "id": "af863ee8-efaa-4976-9e66-49bad3ee6b49",
+      "name": "Rustic Metal Fish",
+      "color": "silver",
+      "price": 95,
+      "description": "Boston's most advanced compression wear technology increases muscle oxygenation, stabilizes active muscles",
+      "createAt": 1618297665585,
+      "updateAt": 1618297665585,
+      "thumbnailUrl": "http://placeimg.com/400/400"
+    },
+    {
+      "categoryId": "e9b0cc26-eeb9-4865-9cd5-abd730c6762b",
+      "name": "Awesome Steel Pizza update",
+      "color": "red",
+      "price": 950,
+      "description": "The beautiful range of Apple Naturalé that has an exciting mix of natural ingredients. With the Goodness of 100% Natural Ingredients",
+      "thumbnailUrl": "http://placeimg.com/400/400",
+      "createdAt": 1618299936212,
+      "updateAt": 1618300039616,
+      "id": "cGot9F_"
+    }
+  ],
+  "profile": {
+    "name": "Tien"
+  }
+}

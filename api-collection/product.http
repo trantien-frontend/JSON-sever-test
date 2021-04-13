@@ -1,0 +1,59 @@
+@baseURL = http://localhost:3000/api
+@resourchName = products
+#products
+# @name getAll
+GET {{baseURL}}/{{resourchName}}
+
+###
+# @name fillterProduct
+GET {{baseURL}}/{{resourchName}}?color=magenta&price_gte=200
+
+###
+# @name filterName
+GET {{baseURL}}/{{resourchName}}?name_like=t
+
+###
+# @name pagination
+GET {{baseURL}}/{{resourchName}}?_page=5&_limit=5
+
+###
+# @name sort
+GET {{baseURL}}/{{resourchName}}?_sort=price&_order=desc
+
+###
+
+# @name addNewPost 
+
+POST {{baseURL}}/{{resourchName}}
+Content-Type: application/json
+
+  {
+    "categoryId": "e9b0cc26-eeb9-4865-9cd5-abd730c6762b",
+    "name": "Awesome Steel Pizza",
+    "color": "teal",
+    "price": 583,
+    "description": "The beautiful range of Apple Naturalé that has an exciting mix of natural ingredients. With the Goodness of 100% Natural Ingredients",
+    "thumbnailUrl": "http://placeimg.com/400/400"
+  }
+###
+
+# @name addNewPost 
+
+PATCH  {{baseURL}}/{{resourchName}}/cGot9F_
+Content-Type: application/json
+
+  {
+    "name": "Awesome Steel Pizza update",
+    "color": "red",
+    "price": 950
+  }
+###
+
+# @name addNewPost 
+
+DELETE   {{baseURL}}/{{resourchName}}/3
+Content-Type: application/json
+
+{
+    "title" : "second-json"
+}
